@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-08T13:58:06 IST" name="Default suite" finished-at="2023-02-08T13:58:07 IST" duration-ms="473">
+    <groups>
+    </groups>
+    <test started-at="2023-02-08T13:58:06 IST" name="Default test" finished-at="2023-02-08T13:58:07 IST" duration-ms="473">
+      <class name="TeamValidations">
+        <test-method signature="NumberOfForiegnPlayers()[pri:0, instance:TeamValidations@3fc5d397]" started-at="2023-02-08T13:58:06 IST" name="NumberOfForiegnPlayers" finished-at="2023-02-08T13:58:06 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumberOfForiegnPlayers -->
+        <test-method signature="OneWicketKeeper()[pri:0, instance:TeamValidations@3fc5d397]" started-at="2023-02-08T13:58:06 IST" name="OneWicketKeeper" finished-at="2023-02-08T13:58:07 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OneWicketKeeper -->
+      </class> <!-- TeamValidations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
